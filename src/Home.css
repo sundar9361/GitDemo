@@ -1,0 +1,19 @@
+.home-container {
+    padding: 20px;
+}
+
+.cuisine-options {
+    margin-top: 20px;
+}
+
+.cuisine-option img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.cuisine-option p {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333;
+}
